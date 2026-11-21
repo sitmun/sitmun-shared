@@ -2,3 +2,4 @@
 
 # sitmun-shared
 
+Shared upstream client, signal captures and proxy contract used by the SITMUN backend and proxy, now the `sitmun-common` folder of sitmun/sitmun.
